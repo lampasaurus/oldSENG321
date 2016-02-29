@@ -1,0 +1,38 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="800" measuredH="600" mockupW="800" mockupH="600">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="800" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>22</bottomheight>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>PPOrganizer</text>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="22" w="800" h="34" measuredW="238" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>File%2C%20Edit%2C%20View%2C%20Tools%2C%20Help</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="55" w="120" h="524" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Tree" x="0" y="56" w="120" h="207" measuredW="300" measuredH="225" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5B+%5D%20Category%201%0A%5B-%5D%20Category%202%0A%20-%20file%0A%20-%20file2</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TabBar" x="120" y="56" w="680" h="523" measuredW="171" measuredH="100" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Category%201%2C%20%20+</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::HorizontalScrollBar" x="120" y="563" w="665" h="-1" measuredW="100" measuredH="16" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::SearchBox" x="648" y="27" w="145" h="-1" measuredW="120" measuredH="25" zOrder="6" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
